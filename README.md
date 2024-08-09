@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @putrfebr
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Javascript DOM
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me with email yah
 - 😄 Pronouns: ...
